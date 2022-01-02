@@ -1,0 +1,37 @@
+body{
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    font-family: 'Julius Sans One', sans-serif;
+   color: rgb(43, 255, 0);
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 183, 255, 1);
+}
+#Player1Name{
+    background: transparent;
+    border: none;
+    text-align: center;
+}
+#Player2Name{
+    background: transparent;
+    border: none;
+    text-align: center;
+}
+::placeholder{
+    color: aqua;
+}
+#start{
+    text-align: center;
+    background-color: rgba(0, 183, 255, 0.37);
+}
+img{
+    width: 200px;
+    height: 200px;  
+}
+#image{
+    text-align: left;
+}
